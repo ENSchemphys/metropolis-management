@@ -9,6 +9,8 @@ Where we describe how to manage metropolis
 On metropolis, we had decided to create an agregated disk using LVM. Now I would turn to ZFS, but that's another story.
 This LVM partition must be mounted manually after each reboot of the machine. Wether or not this is a good idea may be discussed when we have time.
 
+The LVM partition is now 6 TB.
+
 ### How to mount the LVM partition
 
 The command to be typed in the terminal after each reboot is
