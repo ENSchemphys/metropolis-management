@@ -3,6 +3,7 @@ metropolis-management
 
 Where we describe how to manage metropolis
 
+Note: In May 2014, we changed our policity from manual loading of firewall rules, mountings of lvm etc to automatic. This is done through `/etc/rc.local`.
 
 ## Step by step tutorial
 
