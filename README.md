@@ -14,7 +14,7 @@ Edit: This is now done automatically at boot time.
 
 
 
-### Short description
+## Some information for those that want to understand
 
 On metropolis, we had decided to create an agregated disk using LVM. Now I would turn to ZFS, but that's another story.
 This LVM partition must be mounted manually after each reboot of the machine. Wether or not this is a good idea may be discussed when we have time.
