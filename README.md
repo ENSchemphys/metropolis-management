@@ -6,7 +6,7 @@ Where we describe how to manage metropolis
 
 # What to do
 
-1. ~mount the lvm partition~ (new: this should be done automatically at boot time. Old command was: `sudo mount /dev/firstvg/Vol1 /data`)
+1. ~~mount the lvm partition~~ Edit: this is now done automatically at boot time. Old command was: ```sudo mount /dev/firstvg/Vol1 /data```
 2. 
 
 
