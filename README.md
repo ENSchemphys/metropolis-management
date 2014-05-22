@@ -6,8 +6,11 @@ Where we describe how to manage metropolis
 
 ## Step by step tutorial
 
-1. ~~mount the lvm partition~~ Edit: this is now done automatically at boot time. Old command was: ```sudo mount /dev/firstvg/Vol1 /data```
-2. 
+1. ~~Mount the lvm partition~~  
+Edit: This is now done automatically at boot time. Old command was: 
+```sudo mount /dev/firstvg/Vol1 /data```
+2. ~~Apply firewall rules using iptables. All rules are found in a script by Rodolphe Vuilleumier. This script can be found in /home/levesque/monIptables-restreint.boot.sh~~  
+Edit: This is now done automatically at boot time.
 
 
 
